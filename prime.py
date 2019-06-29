@@ -4,8 +4,8 @@ if (fake<=1000):
        if(fake%i==0):
          print("no")
          break
-       else:
-         print("yes")
+   else:
+       print("yes")
 else:
     print("no")
          
